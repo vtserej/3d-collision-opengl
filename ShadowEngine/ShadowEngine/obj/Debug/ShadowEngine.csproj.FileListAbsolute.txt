@@ -1,0 +1,44 @@
+D:\Vasily\Cujae\engine\ShadowEngine\ShadowEngine\obj\Debug\ResolveAssemblyReference.cache
+D:\Vasily\Cujae\engine\ShadowEngine\ShadowEngine\bin\Debug\ShadowEngine.dll
+D:\Vasily\Cujae\engine\ShadowEngine\ShadowEngine\bin\Debug\ShadowEngine.pdb
+D:\Vasily\Cujae\engine\ShadowEngine\ShadowEngine\obj\Debug\ShadowEngine.dll
+D:\Vasily\Cujae\engine\ShadowEngine\ShadowEngine\obj\Debug\ShadowEngine.pdb
+D:\Vasily\Cujae\engine\ShadowEngine\ShadowEngine\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+D:\Vasily\Cujae\engine\ShadowEngine\ShadowEngine\bin\Debug\Tao.OpenGl.dll
+D:\Vasily\Cujae\engine\ShadowEngine\ShadowEngine\bin\Debug\Microsoft.DirectX.dll
+D:\Vasily\Cujae\Proyectos aparte\engine\ShadowEngine\ShadowEngine\bin\Debug\ShadowEngine.dll
+D:\Vasily\Cujae\Proyectos aparte\engine\ShadowEngine\ShadowEngine\bin\Debug\ShadowEngine.pdb
+D:\Vasily\Cujae\Proyectos aparte\engine\ShadowEngine\ShadowEngine\bin\Debug\Microsoft.DirectX.AudioVideoPlayback.dll
+D:\Vasily\Cujae\Proyectos aparte\engine\ShadowEngine\ShadowEngine\bin\Debug\Tao.OpenGl.dll
+D:\Vasily\Cujae\Proyectos aparte\engine\ShadowEngine\ShadowEngine\bin\Debug\Microsoft.DirectX.dll
+D:\Vasily\Cujae\Proyectos aparte\engine\ShadowEngine\ShadowEngine\obj\Debug\ResolveAssemblyReference.cache
+D:\Vasily\Cujae\Proyectos aparte\engine\ShadowEngine\ShadowEngine\obj\Debug\ShadowEngine.dll
+D:\Vasily\Cujae\Proyectos aparte\engine\ShadowEngine\ShadowEngine\obj\Debug\ShadowEngine.pdb
+D:\Vasily\Cujae\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Debug\ShadowEngine.dll
+D:\Vasily\Cujae\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Debug\ShadowEngine.pdb
+D:\Vasily\Cujae\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Debug\Tao.OpenGl.dll
+D:\Vasily\Cujae\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Debug\ResolveAssemblyReference.cache
+D:\Vasily\Cujae\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Debug\ShadowEngine.dll
+D:\Vasily\Cujae\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Debug\ShadowEngine.pdb
+E:\Vasily\Work\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Debug\ShadowEngine.dll
+E:\Vasily\Work\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Debug\ShadowEngine.pdb
+E:\Vasily\Work\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Debug\Tao.OpenGl.dll
+E:\Vasily\Work\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Debug\ResolveAssemblyReference.cache
+E:\Vasily\Work\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Debug\ShadowEngine.dll
+E:\Vasily\Work\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Debug\ShadowEngine.pdb
+D:\Vasily\Work\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Debug\ShadowEngine.dll
+D:\Vasily\Work\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Debug\ShadowEngine.pdb
+D:\Vasily\Work\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\bin\Debug\Tao.OpenGl.dll
+D:\Vasily\Work\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Debug\ResolveAssemblyReference.cache
+D:\Vasily\Work\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Debug\ShadowEngine.dll
+D:\Vasily\Work\TODO GRAPHIKA\Projects\engine\ShadowEngine\ShadowEngine\obj\Debug\ShadowEngine.pdb
+C:\Users\sisvasili.AQUA\Desktop\model loader\ShadowEngine\ShadowEngine\bin\Debug\ShadowEngine.dll
+C:\Users\sisvasili.AQUA\Desktop\model loader\ShadowEngine\ShadowEngine\bin\Debug\ShadowEngine.pdb
+C:\Users\sisvasili.AQUA\Desktop\model loader\ShadowEngine\ShadowEngine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sisvasili.AQUA\Desktop\model loader\ShadowEngine\ShadowEngine\obj\Debug\ShadowEngine.dll
+C:\Users\sisvasili.AQUA\Desktop\model loader\ShadowEngine\ShadowEngine\obj\Debug\ShadowEngine.pdb
+C:\Users\sisvasili.AQUA\Desktop\casa3d\ShadowEngine\ShadowEngine\bin\Debug\ShadowEngine.dll
+C:\Users\sisvasili.AQUA\Desktop\casa3d\ShadowEngine\ShadowEngine\bin\Debug\ShadowEngine.pdb
+C:\Users\sisvasili.AQUA\Desktop\casa3d\ShadowEngine\ShadowEngine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sisvasili.AQUA\Desktop\casa3d\ShadowEngine\ShadowEngine\obj\Debug\ShadowEngine.dll
+C:\Users\sisvasili.AQUA\Desktop\casa3d\ShadowEngine\ShadowEngine\obj\Debug\ShadowEngine.pdb

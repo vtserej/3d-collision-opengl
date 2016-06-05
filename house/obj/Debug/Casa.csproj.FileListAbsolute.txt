@@ -1,0 +1,48 @@
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\obj\Debug\Casa.exe
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\obj\Debug\Casa.pdb
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\bin\Debug\Casa.exe
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\bin\Debug\Casa.pdb
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\bin\Debug\ShadowEngine.pdb
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\obj\Debug\ResolveAssemblyReference.cache
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\obj\Debug\Casa.MainForm.resources
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\obj\Debug\Casa.Properties.Resources.resources
+D:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\obj\Debug\Casa.csproj.GenerateResource.Cache
+E:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\obj\Debug\Casa.exe
+E:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\obj\Debug\Casa.pdb
+E:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\bin\Debug\Casa.exe
+E:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\bin\Debug\Casa.pdb
+E:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\bin\Debug\ShadowEngine.pdb
+E:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\obj\Debug\ResolveAssemblyReference.cache
+E:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\obj\Debug\Casa.MainForm.resources
+E:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\obj\Debug\Casa.Properties.Resources.resources
+E:\Vasily\Cujae\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\obj\Debug\Casa.csproj.GenerateResource.Cache
+D:\Vasily\Work\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\obj\Debug\Casa.exe
+D:\Vasily\Work\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\obj\Debug\Casa.pdb
+D:\Vasily\Work\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\bin\Debug\Casa.exe
+D:\Vasily\Work\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\bin\Debug\Casa.pdb
+D:\Vasily\Work\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\bin\Debug\ShadowEngine.pdb
+D:\Vasily\Work\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\obj\Debug\ResolveAssemblyReference.cache
+D:\Vasily\Work\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\obj\Debug\Casa.MainForm.resources
+D:\Vasily\Work\TODO GRAPHIKA\proyectos sede grafica\este año\casa3d\casa\obj\Debug\Casa.Properties.Resources.resources
+C:\Users\sisvasili.AQUA\Desktop\casa3d\casa\obj\Debug\Casa.exe
+C:\Users\sisvasili.AQUA\Desktop\casa3d\casa\obj\Debug\Casa.pdb
+C:\Users\sisvasili.AQUA\Desktop\casa3d\casa\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sisvasili.AQUA\Desktop\casa3d\casa\obj\Debug\Casa.MainForm.resources
+C:\Users\sisvasili.AQUA\Desktop\casa3d\casa\obj\Debug\Casa.Properties.Resources.resources
+C:\Users\sisvasili.AQUA\Desktop\casa3d\casa\obj\Debug\ResGen.read.1.tlog
+C:\Users\sisvasili.AQUA\Desktop\casa3d\casa\obj\Debug\ResGen.write.1.tlog
+C:\Users\sisvasili.AQUA\Desktop\casa3d\casa\bin\Debug\Casa.exe
+C:\Users\sisvasili.AQUA\Desktop\casa3d\casa\bin\Debug\Casa.pdb
+C:\Users\sisvasili.AQUA\Desktop\casa3d\casa\bin\Debug\ShadowEngine.dll
+C:\Users\sisvasili.AQUA\Desktop\casa3d\casa\bin\Debug\ShadowEngine.pdb
+C:\Users\sisvasili.AQUA\Desktop\casa3d\house\obj\Debug\Casa.exe
+C:\Users\sisvasili.AQUA\Desktop\casa3d\house\obj\Debug\Casa.pdb
+C:\Users\sisvasili.AQUA\Desktop\casa3d\house\bin\Debug\Casa.exe
+C:\Users\sisvasili.AQUA\Desktop\casa3d\house\bin\Debug\Casa.pdb
+C:\Users\sisvasili.AQUA\Desktop\casa3d\house\bin\Debug\ShadowEngine.dll
+C:\Users\sisvasili.AQUA\Desktop\casa3d\house\bin\Debug\ShadowEngine.pdb
+C:\Users\sisvasili.AQUA\Desktop\casa3d\house\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\sisvasili.AQUA\Desktop\casa3d\house\obj\Debug\Casa.MainForm.resources
+C:\Users\sisvasili.AQUA\Desktop\casa3d\house\obj\Debug\Casa.Properties.Resources.resources
+C:\Users\sisvasili.AQUA\Desktop\casa3d\house\obj\Debug\ResGen.read.1.tlog
+C:\Users\sisvasili.AQUA\Desktop\casa3d\house\obj\Debug\ResGen.write.1.tlog
